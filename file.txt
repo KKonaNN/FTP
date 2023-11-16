@@ -1,0 +1,4 @@
+ftp://host:user:pass
+ftp://host:user:pass
+ftp://host:user:pass
+ftp://host:user:pass
